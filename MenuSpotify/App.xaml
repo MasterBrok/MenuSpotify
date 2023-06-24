@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:MenuSpotify"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <!--Telegram : BrokDeveloper-->
+        <!--Telegram : @BrokDeveloper-->
+        <!--Channel Telegram : @BrokDotNet-->
     </Application.Resources>
 </Application>
